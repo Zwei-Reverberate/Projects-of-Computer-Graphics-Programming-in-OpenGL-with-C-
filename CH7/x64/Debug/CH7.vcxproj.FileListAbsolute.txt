@@ -1,0 +1,4 @@
+E:\Computer Science\Computer Graphics\OpenGL\Computer Graphics Programming in OpenGL with C++\Projects\CH7\x64\Debug\CH7.vcxproj.CopyComplete
+E:\Computer Science\Computer Graphics\OpenGL\Computer Graphics Programming in OpenGL with C++\Projects\CH7\x64\Debug\CH7.exe
+E:\Computer Science\Computer Graphics\OpenGL\Computer Graphics Programming in OpenGL with C++\Projects\CH7\x64\Debug\glew32d.dll
+E:\Computer Science\Computer Graphics\OpenGL\Computer Graphics Programming in OpenGL with C++\Projects\CH7\x64\Debug\glfw3.dll
